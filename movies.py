@@ -40,6 +40,6 @@ dark_knight = media.Movie("Dark Knight",
                             "https://upload.wikimedia.org/wikipedia/en/8/8a/Dark_Knight.jpg", 
                             "https://www.youtube.com/watch?v=EXeTwQWrcwY")
 
-#print(dark_knight.tralier_youtube_url)
+
 movies = [good_will_hunting, ocean_11, hunger_games, jojo, nineteen_seventeen, dark_knight]
 fresh_tomatoes.open_movies_page(movies)
